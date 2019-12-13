@@ -1,4 +1,5 @@
-# Using WordPress with GitHub: A step-by-step guide to get up and running
+# Using WordPress with GitHub: 
+## A step-by-step guide to get up and running
 As you may know, we’re big fans of WordPress and use the open-source workhorse any chance we can. But let’s face it—keeping your production site in line with your local testing site can become a nightmare if you don’t have the proper set up. Today we’re going to show you how 45royale builds and tests a WordPress site on local servers and then pushes those updates to a live production server.
 
 One quick note before we get started: We’re going to assume that you have a local environment set up on your machine. We’ve been using MAMP for years as it provides an all in one solution for Apache, PHP and MySQL on a Mac OS environment. If you’re new to local development, check out this article to get up to speed on downloading and setting up MAMP. Have MAMP installed? Great, here’s what’s next:
